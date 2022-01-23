@@ -1,0 +1,7 @@
+D:\DUY\Aptech\C#\Bai Tap\Cau 4\Cau 4\bin\Debug\Cau 4.exe.config
+D:\DUY\Aptech\C#\Bai Tap\Cau 4\Cau 4\bin\Debug\Cau 4.exe
+D:\DUY\Aptech\C#\Bai Tap\Cau 4\Cau 4\bin\Debug\Cau 4.pdb
+D:\DUY\Aptech\C#\Bai Tap\Cau 4\Cau 4\obj\Debug\Cau 4.csproj.AssemblyReference.cache
+D:\DUY\Aptech\C#\Bai Tap\Cau 4\Cau 4\obj\Debug\Cau 4.csproj.CoreCompileInputs.cache
+D:\DUY\Aptech\C#\Bai Tap\Cau 4\Cau 4\obj\Debug\Cau 4.exe
+D:\DUY\Aptech\C#\Bai Tap\Cau 4\Cau 4\obj\Debug\Cau 4.pdb

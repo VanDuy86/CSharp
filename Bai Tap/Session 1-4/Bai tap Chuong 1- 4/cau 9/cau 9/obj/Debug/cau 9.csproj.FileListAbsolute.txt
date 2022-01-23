@@ -1,0 +1,7 @@
+D:\DUY\Aptech\C#\Bai Tap\cau 9\cau 9\obj\Debug\cau 9.csproj.AssemblyReference.cache
+D:\DUY\Aptech\C#\Bai Tap\cau 9\cau 9\obj\Debug\cau 9.csproj.CoreCompileInputs.cache
+D:\DUY\Aptech\C#\Bai Tap\cau 9\cau 9\bin\Debug\cau 9.exe.config
+D:\DUY\Aptech\C#\Bai Tap\cau 9\cau 9\bin\Debug\cau 9.exe
+D:\DUY\Aptech\C#\Bai Tap\cau 9\cau 9\bin\Debug\cau 9.pdb
+D:\DUY\Aptech\C#\Bai Tap\cau 9\cau 9\obj\Debug\cau 9.exe
+D:\DUY\Aptech\C#\Bai Tap\cau 9\cau 9\obj\Debug\cau 9.pdb

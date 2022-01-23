@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\May tinh\May tinh\obj\Debug\May tinh.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\May tinh\May tinh\obj\Debug\May tinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\May tinh\May tinh\bin\Debug\May tinh.exe.config
+C:\Users\Admin\source\repos\May tinh\May tinh\bin\Debug\May tinh.exe
+C:\Users\Admin\source\repos\May tinh\May tinh\bin\Debug\May tinh.pdb
+C:\Users\Admin\source\repos\May tinh\May tinh\obj\Debug\May tinh.exe
+C:\Users\Admin\source\repos\May tinh\May tinh\obj\Debug\May tinh.pdb

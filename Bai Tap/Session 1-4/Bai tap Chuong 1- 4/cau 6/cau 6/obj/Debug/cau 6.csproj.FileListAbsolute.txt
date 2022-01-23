@@ -1,0 +1,7 @@
+D:\DUY\Aptech\C#\Bai Tap\cau 6\cau 6\bin\Debug\cau 6.exe.config
+D:\DUY\Aptech\C#\Bai Tap\cau 6\cau 6\bin\Debug\cau 6.exe
+D:\DUY\Aptech\C#\Bai Tap\cau 6\cau 6\bin\Debug\cau 6.pdb
+D:\DUY\Aptech\C#\Bai Tap\cau 6\cau 6\obj\Debug\cau 6.csproj.CoreCompileInputs.cache
+D:\DUY\Aptech\C#\Bai Tap\cau 6\cau 6\obj\Debug\cau 6.exe
+D:\DUY\Aptech\C#\Bai Tap\cau 6\cau 6\obj\Debug\cau 6.pdb
+D:\DUY\Aptech\C#\Bai Tap\cau 6\cau 6\obj\Debug\cau 6.csproj.AssemblyReference.cache

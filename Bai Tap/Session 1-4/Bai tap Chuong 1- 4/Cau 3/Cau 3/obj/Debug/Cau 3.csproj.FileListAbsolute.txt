@@ -1,0 +1,14 @@
+D:\DUY\Aptech\C#\Bai Tap\Cau 3\Cau 3\bin\Debug\Cau 3.exe.config
+D:\DUY\Aptech\C#\Bai Tap\Cau 3\Cau 3\bin\Debug\Cau 3.exe
+D:\DUY\Aptech\C#\Bai Tap\Cau 3\Cau 3\bin\Debug\Cau 3.pdb
+D:\DUY\Aptech\C#\Bai Tap\Cau 3\Cau 3\obj\Debug\Cau 3.csproj.AssemblyReference.cache
+D:\DUY\Aptech\C#\Bai Tap\Cau 3\Cau 3\obj\Debug\Cau 3.csproj.CoreCompileInputs.cache
+D:\DUY\Aptech\C#\Bai Tap\Cau 3\Cau 3\obj\Debug\Cau 3.exe
+D:\DUY\Aptech\C#\Bai Tap\Cau 3\Cau 3\obj\Debug\Cau 3.pdb
+D:\DUY\Aptech\C#\Bai Tap\Bai tap Chuong 1- 4\Cau 3\Cau 3\bin\Debug\Cau 3.exe.config
+D:\DUY\Aptech\C#\Bai Tap\Bai tap Chuong 1- 4\Cau 3\Cau 3\bin\Debug\Cau 3.exe
+D:\DUY\Aptech\C#\Bai Tap\Bai tap Chuong 1- 4\Cau 3\Cau 3\bin\Debug\Cau 3.pdb
+D:\DUY\Aptech\C#\Bai Tap\Bai tap Chuong 1- 4\Cau 3\Cau 3\obj\Debug\Cau 3.csproj.AssemblyReference.cache
+D:\DUY\Aptech\C#\Bai Tap\Bai tap Chuong 1- 4\Cau 3\Cau 3\obj\Debug\Cau 3.csproj.CoreCompileInputs.cache
+D:\DUY\Aptech\C#\Bai Tap\Bai tap Chuong 1- 4\Cau 3\Cau 3\obj\Debug\Cau 3.exe
+D:\DUY\Aptech\C#\Bai Tap\Bai tap Chuong 1- 4\Cau 3\Cau 3\obj\Debug\Cau 3.pdb
