@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Cau 4\Cau 4\bin\Debug\Cau 4.exe.config
+C:\Users\Admin\Desktop\Cau 4\Cau 4\bin\Debug\Cau 4.exe
+C:\Users\Admin\Desktop\Cau 4\Cau 4\bin\Debug\Cau 4.pdb
+C:\Users\Admin\Desktop\Cau 4\Cau 4\obj\Debug\Cau 4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Cau 4\Cau 4\obj\Debug\Cau 4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Cau 4\Cau 4\obj\Debug\Cau 4.exe
+C:\Users\Admin\Desktop\Cau 4\Cau 4\obj\Debug\Cau 4.pdb

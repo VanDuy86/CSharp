@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Cau 1\Cau 1\bin\Debug\Cau 1.exe.config
+C:\Users\Admin\Desktop\Cau 1\Cau 1\bin\Debug\Cau 1.exe
+C:\Users\Admin\Desktop\Cau 1\Cau 1\bin\Debug\Cau 1.pdb
+C:\Users\Admin\Desktop\Cau 1\Cau 1\obj\Debug\Cau 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Cau 1\Cau 1\obj\Debug\Cau 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Cau 1\Cau 1\obj\Debug\Cau 1.exe
+C:\Users\Admin\Desktop\Cau 1\Cau 1\obj\Debug\Cau 1.pdb
+D:\DUY\Aptech\C#\Bai Tap\Bai tap OOP\Cau 1\Cau 1\bin\Debug\Cau 1.exe.config
+D:\DUY\Aptech\C#\Bai Tap\Bai tap OOP\Cau 1\Cau 1\bin\Debug\Cau 1.exe
+D:\DUY\Aptech\C#\Bai Tap\Bai tap OOP\Cau 1\Cau 1\bin\Debug\Cau 1.pdb
+D:\DUY\Aptech\C#\Bai Tap\Bai tap OOP\Cau 1\Cau 1\obj\Debug\Cau 1.csproj.AssemblyReference.cache
+D:\DUY\Aptech\C#\Bai Tap\Bai tap OOP\Cau 1\Cau 1\obj\Debug\Cau 1.csproj.CoreCompileInputs.cache
+D:\DUY\Aptech\C#\Bai Tap\Bai tap OOP\Cau 1\Cau 1\obj\Debug\Cau 1.exe
+D:\DUY\Aptech\C#\Bai Tap\Bai tap OOP\Cau 1\Cau 1\obj\Debug\Cau 1.pdb
